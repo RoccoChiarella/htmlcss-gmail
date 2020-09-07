@@ -1,0 +1,62 @@
+/* *{
+    font-family: 'Montserrat', sans-serif;
+} */
+
+#casella-postale{
+    background-image: url(https://eskipaper.com/images/wood-wallpaper-14.jpg);
+    padding: 100px;
+}
+
+#logo{
+    color: white;
+    text-align: left;
+}
+
+#notifiche{
+    color: white;
+}
+
+#cerchio-notifiche{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50%;
+    text-align: center;
+}
+
+#email1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: #D3D3D3;
+}
+
+#email2{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+}
+
+#email3{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: #D3D3D3;
+}
+
+#email4{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: #D3D3D3;
+}
+
+.testo-chiaro{
+    color: #808080;
+}
+
+#fine{
+    text-align: center;
+    color: white;
+}
